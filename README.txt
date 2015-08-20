@@ -1,3 +1,4 @@
+Just a test
 Intel (R) Dynamic Platform and Thermal Framework (Intel (R) DPTF) 
 for Chromium OS - 8.1.x Release 
 
