@@ -30,7 +30,7 @@ char g_esif_kernel_version[64] = "NA";
 #include "esif_uf_shell.h"	/* Shell / Command Line Interface */
 #include "esif_uf_test.h"	/* Test Framework */
 #include "esif_uf_ipc.h"	/* IPC */
-
+/* test */
 /* Managers */
 #include "esif_pm.h"		/* Upper Participant Manager */
 #include "esif_uf_appmgr.h"	/* Application Manager */
